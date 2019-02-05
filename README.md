@@ -33,3 +33,11 @@ Here are the names of the games:
 8. Speedball
 
 Hope you have a chance to play. 
+
+*Acknowledgements:*
+
+Thanks to all the members of the NESDev and Nintendo Age communities for helping me get started.
+Thanks to Parker Brothers for the original hand-held Split Second game.
+Thanks to BunnyBoy for writing the original NES "Nerdy Nights" tutorials.
+Thanks to Damian Yerrick for sharing his NTSC/PAL/Dendy system detection code.
+Thanks to KHAN Games and SoleGooseProductions for their amazing NES Assembly Line Podcast, which helped encourage me to complete the game.
