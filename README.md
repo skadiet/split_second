@@ -2,7 +2,7 @@
 
 There are two choices:
 1. You can download the split_second.nes file and play it in your favorite NES emulator.
-2. You can build split_second.nes yourself by cloning the git repo and using NESASM to comile split_second.asm
+2. You can build split_second.nes yourself by cloning the git repo and using NESASM to compile split_second.asm.
 
 
 *Description:*
