@@ -1,0 +1,15 @@
+$001D#board_ptr#
+$001E#board_ptr+1#
+$0000#metatiles#
+$0001#metatiles+1#
+$0004#meta_tile_ppu_addr_coords_ptr#
+$0005#meta_tile_ppu_addr_coords_ptr+#
+$001F#box_ptr#
+$0006#meta_tile_ppu_addr_coord_ptr#
+$0007#meta_tile_ppu_addr_coord_ptr+1#
+$0002#meta_tile_ptr#
+$0003#meta_tile_ptr+1#
+$0013#textPointer1Lo#
+$0014#textPointer1Hi#
+$0011#ppu_y_coord#
+$0010#ppu_x_coord#
